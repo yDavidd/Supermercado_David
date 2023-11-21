@@ -1,0 +1,12 @@
+{
+    "produtos":[
+        {
+            "img": "../../assets/maionese-heinz.webp",
+            "nome": "Maionese Heinz",
+            "valor": 30,
+            "descricao": "A Maionese Heinz Tradicional é cremosa, saborosa e contém ovos caipiras, que dão a ela um sabor inigualável. A Maionese Heinz 215g é perfeita para quem mora sozinho",
+            "id": 1
+            
+        }
+    ]
+}
